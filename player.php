@@ -1,1 +1,1 @@
-add changes for player 
+add changes for 2 players 
